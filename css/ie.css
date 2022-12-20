@@ -1,8 +1,0 @@
-/* -----------------for pie------------------- */
-.pagin>ul>li>a>span{
-display: none;
-}
-.pagin>ul>li>a:hover>span, .pagin>ul>li.active>a>span {
-display: block;
-}
-.pagin>ul{position: relative; behavior: url(js/PIE.htc); }
